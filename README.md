@@ -1,4 +1,4 @@
-Digidex criada consumindo uma API
+Digidex(Catálogo de Digimons) criada consumindo uma API
 
 # Getting Started with Create React App
 
