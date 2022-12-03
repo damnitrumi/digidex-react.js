@@ -36,7 +36,7 @@ export const Home = () => {
     return () => {
       isMounted.current = false;
     };
-  }, [data]);
+  }, []);
 
   const cards = searchValue
     ? data.filter((el) => {

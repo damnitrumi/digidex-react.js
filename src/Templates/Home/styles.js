@@ -25,5 +25,6 @@ export const Container = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: ${theme.spacings.small};
+    margin-top: 30px;
   `}
 `;
