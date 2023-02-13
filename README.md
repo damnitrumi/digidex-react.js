@@ -2,6 +2,8 @@ Digidex(Catálogo de Digimons) criada consumindo uma API
 
 Digidex (Digimon Catalog) done consuming an API.
 
+Deploy: https://digidex-react-js-damnitrumi.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
